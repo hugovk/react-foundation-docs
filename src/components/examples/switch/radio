@@ -1,5 +1,0 @@
-<div className="switch-radio-example">
-  <Switch input={{ type: InputTypes.RADIO, name: 'testGroup', defaultChecked: true }}/>
-  <Switch input={{ type: InputTypes.RADIO, name: 'testGroup' }}/>
-  <Switch input={{ type: InputTypes.RADIO, name: 'testGroup' }}/>
-</div>

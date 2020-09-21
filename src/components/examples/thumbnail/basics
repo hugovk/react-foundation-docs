@@ -1,3 +1,0 @@
-<div className="thumbnail-example">
-  <Thumbnail src="https://unsplash.it/200" alt="Picture from unsplash.it"/>
-</div>

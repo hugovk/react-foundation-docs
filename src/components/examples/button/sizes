@@ -1,8 +1,0 @@
-<div className="button-sizes-example">
-  <Link size={Sizes.TINY}>So Tiny</Link>
-  <Link size={Sizes.SMALL}>So Small</Link>
-  <Link>So Basic</Link>
-  <Link size={Sizes.LARGE}>So Large</Link>
-  <Link isExpanded>Such Expand</Link>
-  <Link size={Sizes.TINY} isExpanded>Wow, Small Expand</Link>
-</div>

@@ -1,4 +1,0 @@
-<div className="switch-inner-label-example">
-  <p>Do you like me?</p>
-  <Switch size={Sizes.LARGE} active={{ text: 'Yes' }} inactive={{ text: 'No' }}/>
-</div>

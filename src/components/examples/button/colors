@@ -1,8 +1,0 @@
-<div className="button-colors-example">
-  <Link color={Colors.PRIMARY}>Primary Color</Link>
-  <Link color={Colors.SECONDARY}>Secondary Color</Link>
-  <Link color={Colors.SUCCESS}>Success Color</Link>
-  <Link color={Colors.ALERT}>Alert Color</Link>
-  <Link color={Colors.WARNING}>Warning Color</Link>
-  <Link isDisabled>Disabled Button</Link>
-</div>

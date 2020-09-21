@@ -1,8 +1,0 @@
-<div className="button-group-split-button-example">
-  <ButtonGroup>
-    <Link>Primary Action</Link>
-    <Link isDropdown isArrowOnly>
-      <span className="show-for-sr">Show menu</span>
-    </Link>
-  </ButtonGroup>
-</div>

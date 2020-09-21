@@ -1,5 +1,0 @@
-<div className="grid-column-row-example">
-  <Grid className="display" isColumn>
-    Row column
-  </Grid>
-</div>

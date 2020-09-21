@@ -1,7 +1,0 @@
-<div className="button-group-expand-example">
-  <ButtonGroup isExpanded>
-    <Link>Expanded</Link>
-    <Link>Button</Link>
-    <Link>Group</Link>
-  </ButtonGroup>
-</div>

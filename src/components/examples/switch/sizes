@@ -1,5 +1,0 @@
-<div className="switch-radio-example">
-  <Switch size={Sizes.TINY}/>
-  <Switch size={Sizes.SMALL}/>
-  <Switch size={Sizes.LARGE}/>
-</div>

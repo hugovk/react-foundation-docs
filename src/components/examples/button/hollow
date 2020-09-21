@@ -1,7 +1,0 @@
-<div className="button-hollow-example">
-  <Button color={Colors.PRIMARY} isHollow>Primary Color</Button>
-  <Button color={Colors.SECONDARY} isHollow>Secondary Color</Button>
-  <Button color={Colors.SUCCESS} isHollow>Success Color</Button>
-  <Button color={Colors.ALERT} isHollow>Alert Color</Button>
-  <Button color={Colors.WARNING} isHollow>Warning Color</Button>
-</div>

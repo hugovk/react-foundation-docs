@@ -1,7 +1,0 @@
-<div className="button-group-basics-example">
-  <ButtonGroup>
-    <Link>One</Link>
-    <Link>Two</Link>
-    <Link>Three</Link>
-  </ButtonGroup>
-</div>

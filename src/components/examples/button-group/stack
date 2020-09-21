@@ -1,9 +1,0 @@
-<div className="button-group-stack-example">
-  <ButtonGroup stackFor={Breakpoints.SMALL}>
-    <Link>How</Link>
-    <Link>Low</Link>
-    <Link>Can</Link>
-    <Link>You</Link>
-    <Link>Go</Link>
-  </ButtonGroup>
-</div>

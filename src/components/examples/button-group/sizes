@@ -1,7 +1,0 @@
-<div className="button-group-sizes-example">
-  <ButtonGroup size={Sizes.SMALL}>
-    <Link>Small</Link>
-    <Link>Button</Link>
-    <Link>Group</Link>
-  </ButtonGroup>
-</div>

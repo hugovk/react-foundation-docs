@@ -1,8 +1,0 @@
-<div className="menu-active-state-example">
-  <Menu>
-    <MenuText>Site Title</MenuText>
-    <MenuItem><a>One</a></MenuItem>
-    <MenuItem><a>Two</a></MenuItem>
-    <MenuItem><a>Three</a></MenuItem>
-  </Menu>
-</div>

@@ -1,6 +1,0 @@
-<div className="badge-colors-example">
-  <Badge color={Colors.SECONDARY}>2</Badge>
-  <Badge color={Colors.SUCCESS}>3</Badge>
-  <Badge color={Colors.ALERT}>A</Badge>
-  <Badge color={Colors.WARNING}>B</Badge>
-</div>

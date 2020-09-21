@@ -1,4 +1,0 @@
-<div className="grid-fluid-row-example">
-  <Grid className="display" isExpanded>
-  </Grid>
-</div>

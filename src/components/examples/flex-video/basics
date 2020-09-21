@@ -1,5 +1,0 @@
-<div className="flex-video-example">
-  <FlexVideo isWidescreen isVimeo>
-    <iframe src="//player.vimeo.com/video/60122989" width="400" height="225" frameBorder="0" allowFullScreen/>
-  </FlexVideo>
-</div>

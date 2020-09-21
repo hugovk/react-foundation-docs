@@ -1,5 +1,0 @@
-<div className="badge-icons-example">
-  <Badge color={Colors.INFO}><Icon name="fi-share"/></Badge>
-  <Badge color={Colors.SUCCESS}><Icon name="fi-check"/></Badge>
-  <Badge color={Colors.WARNING}><Icon name="fi-wrench"/></Badge>
-</div>

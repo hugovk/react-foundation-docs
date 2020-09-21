@@ -1,5 +1,0 @@
-<div className="label-icons-example">
-  <Label color={Colors.ALERT}><Icon name="fi-x-circle"/> Alert Label</Label>
-  <Label color={Colors.WARNING}><Icon name="fi-x"/> Warning Label</Label>
-  <Label color={Colors.INFO}><Icon name="fi-widget"/> Info Label</Label>
-</div>

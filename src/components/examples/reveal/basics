@@ -1,6 +1,0 @@
-<div>
-  <Reveal isLarge={true}>
-    This is the content that would be revealed
-  </Reveal>
-  <Button>Reveal the content</Button>
-</div>

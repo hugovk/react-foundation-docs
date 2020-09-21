@@ -1,7 +1,0 @@
-<div className="button-dropdown-arrows-example">
-  <Button size={Sizes.TINY} isDropdown>Dropdown Button</Button>
-  <Button size={Sizes.SMALL} isDropdown>Dropdown Button</Button>
-  <Button isDropdown>Dropdown Button</Button>
-  <Button size={Sizes.LARGE} isDropdown>Dropdown Button</Button>
-  <Button isExpanded isDropdown>Dropdown Button</Button>
-</div>
